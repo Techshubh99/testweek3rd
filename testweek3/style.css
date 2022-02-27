@@ -1,0 +1,78 @@
+body {
+    padding: 0%;
+    margin: 0%;
+}
+
+#header {
+    width: 30%;
+    height: 800px;
+    background-color: black;
+    display: inline;
+    float: left;
+}
+
+#main {
+    width: 70%;
+    display: inline;
+    float: right;
+    height: 800px;
+    background-color: darkgrey;
+}
+
+.pic {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+img {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+h1 {
+    color: white;
+    padding-left: 50px;
+    font-family: sans-serif
+}
+
+.menu {
+    padding-left: 100px;
+}
+
+.m {
+    padding-bottom: 40px;
+    color: wheat;
+    border: 10px;
+}
+
+.profile {
+    padding-top: 150px;
+    padding-left: 200px;
+}
+
+b {
+    color: yellow;
+    font-size: xx-large;
+}
+
+h3 {
+    font-size: x-large;
+}
+
+#footer {
+    width: 100%;
+    height: 200px;
+    background-color: rgb(27, 5, 5);
+    display: inline;
+    float: left;
+}
+
+.lorem {
+    color: white;
+    text-align: center;
+}
+
+.btn {
+    background-color: yellow;
+}
